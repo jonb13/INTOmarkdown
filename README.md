@@ -11,9 +11,19 @@ Hér á að koma listi af hópmeðlimum (sjá Markdown leiðbeiningar um það h
 
 Lýsið hvernig gekk að setja upp Linux (Ubuntu eða aðra útgáfu). Bætið inn í þetta skjal ljósmynd af tölvunni að ræsa Linux (skoðið hvernig myndir eru settar inn í Markdown skjöl).
 
+Mjög greiðilega gekk að setja upp Ubuntu. Við notuðumst báðir við USB kubb.
+
+![Alt text](http://img716.imageshack.us/img716/7186/0j2q.jpg)
+
+Júlíus tók þessa fínu mynd þegar hann var að setja kerfið sitt um. Valmöguleikinn Try Ubuntu varð fyrir valinu þar sem 
+það er lang fljótast.
+
+
 ## 2. Uppsetning á vim && git
 
 Lýsið hvernig gekk að setja upp þessi tól.
+
+Það gekk mjög vel að setja upp vim og git-core. 
 
 ## 3. Unnið með Git (1. hluti)
 
@@ -24,6 +34,14 @@ Látið fylgja tengil á ykkar útgáfu af verkefninu (Það á að sjálfsögð
 ## 4. Uppsettur hugbúnaður
 
 Hér á að koma listi yfir opinn hugbúnað sem þið eruð með á vélunum nú þegar (sjá verkefnislýsingu).
+
+*Vafri [Google Chrome](https://www.google.com/intl/en_uk/chrome/browser/).*
+
+*Vafri [Mozilla Firefox](http://www.mozilla.org/en-US/).*
+
+*Myndvinnsluforrit [GIMP](http://www.gimp.org/).*
+
+*Stýrikerfi [Ubuntu](http://www.ubuntu.com/).*
 
 ## 5. Unnið með Git (2. hluti)
 
