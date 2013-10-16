@@ -29,7 +29,14 @@ Lýsið hvernig gekk að setja upp þessi tól.
 
 Lýsið hvernig gekk að forka NIM verkefnið, og hvernig gekk að láta hópmeðlimi gera hver sína breytingu á kóðanum.
 
+Misvel gekk með skipanirnar. Við vorum lengi fastir á 'git commit -a -m'. Svo tók það okkur góða stund að tengja
+verkefnin við github síðuna. En það hófst í lokinn og við náðum að klára verkefnið.
+
 Látið fylgja tengil á ykkar útgáfu af verkefninu (Það á að sjálfsögðu að vera hægt að smella á tengilinn og fara þá beint í verkefnið ykkar!)
+
+
+*Verkefni: [INTOPrufa](https://github.com/juliusg13/INTOPrufa).*
+
 
 ## 4. Uppsettur hugbúnaður
 
